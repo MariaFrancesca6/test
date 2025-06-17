@@ -15,7 +15,7 @@
     "target" : {
       "type" : "SpecificResource",
       "source" : {
-        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
+        "id" : "https://mariafrancesca6.github.io/test/manifests/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
         "type" : "Canvas"
       },
       "selector" : {
@@ -37,7 +37,7 @@
     "target" : {
       "type" : "SpecificResource",
       "source" : {
-        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
+        "id" : "https://mariafrancesca6.github.io/test/manifests/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
         "type" : "Canvas"
       },
       "selector" : {
