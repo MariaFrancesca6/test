@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://MariaFrancesca6.github.io/test/annotations/rprv264cd4ae-4614-491f-8609-cf1b4972584b_annotations.json" ],
+  "otherContent" : [ "https://MariaFrancesca6.github.io/test/annotations/rprv264cd4ae-4614-491f-8609-cf1b4972584b_annotations.json", "https://MariaFrancesca6.github.io/test/annotations/annotations.json" ],
   "@id" : "https://MariaFrancesca6.github.io/test/annotations/collection.json",
   "label" : "All annotations loaded in MariaFrancesca6/test project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
