@@ -17,5 +17,11 @@
       "fr" : [ "Il Giuoco dell'Oca" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://MariaFrancesca6.github.io/test/manifests/manifesteedition.json",
+    "label" : {
+      "fr" : [ "Il Giuoco dell'Oca" ]
+    },
+    "type" : "Manifest"
   } ]
 }
