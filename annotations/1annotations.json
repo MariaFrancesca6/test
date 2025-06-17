@@ -1,0 +1,50 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/test/annotations/1annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "5d57914b-3a55-43ed-ab96-bfd1f996cb05",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "language" : "fr",
+      "format" : "text/html",
+      "value" : "donna<div><br></div>"
+    },
+    "target" : {
+      "type" : "SpecificResource",
+      "source" : {
+        "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prvdf87e424-4e63-4ea7-8898-d48d6419e473",
+        "type" : "Canvas"
+      },
+      "selector" : {
+        "type" : "FragmentSelector",
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=pixel:938.9097744360902,415.57142857142856,118.42105263157896,131.9548872180451"
+      }
+    }
+  }, {
+    "id" : "578346df-c902-436b-87c2-f617fbe7e82c",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "language" : "fr",
+      "format" : "text/html",
+      "value" : "giallo"
+    },
+    "target" : {
+      "type" : "SpecificResource",
+      "source" : {
+        "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prvdf87e424-4e63-4ea7-8898-d48d6419e473",
+        "type" : "Canvas"
+      },
+      "selector" : {
+        "type" : "FragmentSelector",
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "value" : "xywh=pixel:1309.3984962406014,552.6015037593985,106.57894736842081,106.57894736842104"
+      }
+    }
+  } ]
+}
