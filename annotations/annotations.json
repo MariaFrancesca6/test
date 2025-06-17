@@ -1,0 +1,50 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/test/annotations/annotations.json",
+  "type" : "AnnotationPage",
+  "items" : [ {
+    "id" : "81179074-8af4-4dc0-a214-a024f0063598",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "language" : "fr",
+      "format" : "text/html",
+      "value" : "<a href=\"https://www.wikidata.org/wiki/Q13147\">teschio</a>"
+    },
+    "target" : {
+      "type" : "SpecificResource",
+      "source" : {
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
+        "type" : "Canvas"
+      },
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "type" : "FragmentSelector",
+        "value" : "xywh=pixel:1492.0619080191016,656.3265365555579,376.10111212096194,400.7634801288931"
+      }
+    }
+  }, {
+    "id" : "6e59c26b-ee51-40fb-9b1d-e66dbe5ec361",
+    "type" : "Annotation",
+    "motivation" : "commenting",
+    "body" : {
+      "type" : "TextualBody",
+      "language" : "fr",
+      "format" : "text/html",
+      "value" : "scarabeo&nbsp;"
+    },
+    "target" : {
+      "type" : "SpecificResource",
+      "source" : {
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
+        "type" : "Canvas"
+      },
+      "selector" : {
+        "conformsTo" : "http://www.w3.org/TR/media-frags/",
+        "type" : "FragmentSelector",
+        "value" : "xywh=pixel:1399.0183945411788,2961.8343648727314,578.0764610216083,480.37349561327073"
+      }
+    }
+  } ]
+}
