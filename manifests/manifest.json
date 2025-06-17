@@ -1,0 +1,178 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/test/manifests/manifest.json",
+  "items" : [ {
+    "height" : 1024,
+    "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prvdf87e424-4e63-4ea7-8898-d48d6419e473",
+    "items" : [ {
+      "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prvdf87e424-4e63-4ea7-8898-d48d6419e473/annotation-page",
+      "items" : [ {
+        "body" : {
+          "format" : "image/jpeg",
+          "height" : 1024,
+          "id" : "https://mariafrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI/full/full/0/default.jpg",
+          "service" : [ {
+            "id" : "https://mariafrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI",
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "type" : "ImageService2"
+          } ],
+          "type" : "Image",
+          "width" : 1575
+        },
+        "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/annotation/prvdf87e424-4e63-4ea7-8898-d48d6419e473-image",
+        "motivation" : "painting",
+        "target" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prvdf87e424-4e63-4ea7-8898-d48d6419e473",
+        "type" : "Annotation"
+      } ],
+      "type" : "AnnotationPage"
+    } ],
+    "label" : {
+      "none" : [ "Empty canvas" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Titre" ]
+      },
+      "value" : {
+        "fr" : [ "Empty canvas" ]
+      }
+    } ],
+    "partOf" : [ {
+      "id" : "https://MariaFrancesca6.github.io/GiuocoSanguineti/manifests/manifest.json",
+      "label" : {
+        "none" : [ "[Click to edit label]" ]
+      },
+      "type" : "Manifest"
+    } ],
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Crédits du fichier numérique" ]
+      },
+      "value" : {
+        "fr" : [ "" ]
+      }
+    },
+    "summary" : {
+      "fr" : [ "" ]
+    },
+    "thumbnail" : [ {
+      "format" : "image/jpeg",
+      "height" : 300,
+      "id" : "https://mariafrancesca6.github.io/GiuocoSanguineti/images/imgGiuocoAI/full/412,320/0/default.jpg",
+      "type" : "Image",
+      "width" : 200
+    } ],
+    "type" : "Canvas",
+    "width" : 1575
+  }, {
+    "height" : 4448,
+    "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prve83cbe5a-7478-4b1d-b1a9-ccb797aa4d9b",
+    "items" : [ {
+      "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prve83cbe5a-7478-4b1d-b1a9-ccb797aa4d9b/annotation-page",
+      "items" : [ {
+        "body" : {
+          "format" : "image/jpeg",
+          "height" : 4448,
+          "id" : "https://stacks.stanford.edu/image/iiif/hp730pz7495%2FCSt-005-1425/full/full/0/default.jpg",
+          "service" : [ {
+            "id" : "https://stacks.stanford.edu/image/iiif/hp730pz7495%2FCSt-005-1425",
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "type" : "ImageService2"
+          } ],
+          "type" : "Image",
+          "width" : 3840
+        },
+        "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/annotation/prve83cbe5a-7478-4b1d-b1a9-ccb797aa4d9b-image",
+        "motivation" : "painting",
+        "target" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prve83cbe5a-7478-4b1d-b1a9-ccb797aa4d9b",
+        "type" : "Annotation"
+      } ],
+      "type" : "AnnotationPage"
+    } ],
+    "label" : {
+      "none" : [ "Image 1" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Titre" ]
+      },
+      "value" : {
+        "fr" : [ "Image 1" ]
+      }
+    } ],
+    "partOf" : [ {
+      "id" : "https://purl.stanford.edu/hp730pz7495/iiif/manifest",
+      "label" : {
+        "none" : [ "Randle's island" ]
+      },
+      "type" : "Manifest"
+    } ],
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Crédits du fichier numérique" ]
+      },
+      "value" : {
+        "fr" : [ "" ]
+      }
+    },
+    "summary" : {
+      "fr" : [ "" ]
+    },
+    "thumbnail" : [ {
+      "format" : "image/jpeg",
+      "height" : 300,
+      "id" : "https://stacks.stanford.edu/image/iiif/hp730pz7495%2FCSt-005-1425/full/320,412/0/default.jpg",
+      "type" : "Image",
+      "width" : 200
+    } ],
+    "type" : "Canvas",
+    "width" : 3840
+  } ],
+  "label" : {
+    "fr" : [ "Il Giuoco dell'Oca" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Date de création" ]
+    },
+    "value" : {
+      "none" : [ "2025-06-16T15:31:23.389Z" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Auteur" ]
+    },
+    "value" : {
+      "none" : [ "MFB" ]
+    }
+  } ],
+  "structures" : [ {
+    "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/range/r0",
+    "items" : [ {
+      "annotations" : [ {
+        "id" : "https://mariafrancesca6.github.io/test/annotations/1annotations.json",
+        "type" : "AnnotationPage"
+      } ],
+      "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/rprv7a98df86-39e1-4c46-a108-14a254f5f031",
+      "items" : [ {
+        "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prvdf87e424-4e63-4ea7-8898-d48d6419e473",
+        "label" : {
+          "fr" : [ "" ]
+        },
+        "type" : "Canvas"
+      }, {
+        "id" : "https://pervisum.inha.fr/api/prvcd66a42b-f0cf-4d0d-ab35-695b44354295/manifest-edition/canvas/prve83cbe5a-7478-4b1d-b1a9-ccb797aa4d9b",
+        "label" : {
+          "fr" : [ "" ]
+        },
+        "type" : "Canvas"
+      } ],
+      "label" : {
+        "none" : [ "Sans titre" ]
+      },
+      "type" : "Range"
+    } ],
+    "type" : "Range"
+  } ],
+  "type" : "Manifest"
+}
