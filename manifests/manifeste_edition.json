@@ -274,7 +274,7 @@
     "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/range/r0",
     "items" : [ {
       "annotations" : [ {
-        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/rprv264cd4ae-4614-491f-8609-cf1b4972584b_annotations",
+        "id" : "https://workbench.gdmrdigital.com/projects/test/annotations",
         "type" : "AnnotationPage"
       } ],
       "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/rprv264cd4ae-4614-491f-8609-cf1b4972584b",
