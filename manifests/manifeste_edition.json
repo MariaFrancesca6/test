@@ -1,0 +1,302 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://MariaFrancesca6.github.io/test/manifests/manifeste_edition.json",
+  "items" : [ {
+    "height" : 4612,
+    "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
+    "items" : [ {
+      "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a/annotation-page",
+      "items" : [ {
+        "body" : {
+          "format" : "image/jpeg",
+          "height" : 4612,
+          "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f19/full/max/0/default.jpg",
+          "service" : [ {
+            "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f19",
+            "profile" : "level1",
+            "type" : "ImageService3"
+          } ],
+          "type" : "Image",
+          "width" : 3186
+        },
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/annotation/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a-image",
+        "motivation" : "painting",
+        "target" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
+        "type" : "Annotation"
+      } ],
+      "type" : "AnnotationPage"
+    } ],
+    "label" : {
+      "none" : [ "Frontispiece" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Titre" ]
+      },
+      "value" : {
+        "fr" : [ "Frontispiece" ]
+      }
+    } ],
+    "partOf" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json",
+      "label" : {
+        "none" : [ "Simple Manifest - Book" ]
+      },
+      "type" : "Manifest"
+    } ],
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Crédits du fichier numérique" ]
+      },
+      "value" : {
+        "fr" : [ "" ]
+      }
+    },
+    "summary" : {
+      "fr" : [ "" ]
+    },
+    "thumbnail" : [ {
+      "format" : "image/jpeg",
+      "height" : 300,
+      "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f19/full/max/0/default.jpg",
+      "type" : "Image",
+      "width" : 200
+    } ],
+    "type" : "Canvas",
+    "width" : 3186
+  }, {
+    "height" : 4613,
+    "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv0153935d-b631-4bba-96d1-16a1fa767488",
+    "items" : [ {
+      "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv0153935d-b631-4bba-96d1-16a1fa767488/annotation-page",
+      "items" : [ {
+        "body" : {
+          "format" : "image/jpeg",
+          "height" : 4613,
+          "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f20/full/max/0/default.jpg",
+          "service" : [ {
+            "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f20",
+            "profile" : "level1",
+            "type" : "ImageService3"
+          } ],
+          "type" : "Image",
+          "width" : 3204
+        },
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/annotation/prv0153935d-b631-4bba-96d1-16a1fa767488-image",
+        "motivation" : "painting",
+        "target" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv0153935d-b631-4bba-96d1-16a1fa767488",
+        "type" : "Annotation"
+      } ],
+      "type" : "AnnotationPage"
+    } ],
+    "label" : {
+      "none" : [ "Title page" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Titre" ]
+      },
+      "value" : {
+        "fr" : [ "Title page" ]
+      }
+    } ],
+    "partOf" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json",
+      "label" : {
+        "none" : [ "Simple Manifest - Book" ]
+      },
+      "type" : "Manifest"
+    } ],
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Crédits du fichier numérique" ]
+      },
+      "value" : {
+        "fr" : [ "" ]
+      }
+    },
+    "summary" : {
+      "fr" : [ "" ]
+    },
+    "thumbnail" : [ {
+      "format" : "image/jpeg",
+      "height" : 300,
+      "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f20/full/max/0/default.jpg",
+      "type" : "Image",
+      "width" : 200
+    } ],
+    "type" : "Canvas",
+    "width" : 3204
+  }, {
+    "height" : 4632,
+    "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv153d3bc1-77cc-4f24-903f-d7f5172f48d0",
+    "items" : [ {
+      "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv153d3bc1-77cc-4f24-903f-d7f5172f48d0/annotation-page",
+      "items" : [ {
+        "body" : {
+          "format" : "image/jpeg",
+          "height" : 4632,
+          "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f22/full/max/0/default.jpg",
+          "service" : [ {
+            "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f22",
+            "profile" : "level1",
+            "type" : "ImageService3"
+          } ],
+          "type" : "Image",
+          "width" : 3198
+        },
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/annotation/prv153d3bc1-77cc-4f24-903f-d7f5172f48d0-image",
+        "motivation" : "painting",
+        "target" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv153d3bc1-77cc-4f24-903f-d7f5172f48d0",
+        "type" : "Annotation"
+      } ],
+      "type" : "AnnotationPage"
+    } ],
+    "label" : {
+      "none" : [ "Bookplate" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Titre" ]
+      },
+      "value" : {
+        "fr" : [ "Bookplate" ]
+      }
+    } ],
+    "partOf" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json",
+      "label" : {
+        "none" : [ "Simple Manifest - Book" ]
+      },
+      "type" : "Manifest"
+    } ],
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Crédits du fichier numérique" ]
+      },
+      "value" : {
+        "fr" : [ "" ]
+      }
+    },
+    "summary" : {
+      "fr" : [ "" ]
+    },
+    "thumbnail" : [ {
+      "format" : "image/jpeg",
+      "height" : 300,
+      "id" : "https://iiif.io/api/image/3.0/example/reference/59d09e6773341f28ea166e9f3c1e674f-gallica_ark_12148_bpt6k1526005v_f22/full/max/0/default.jpg",
+      "type" : "Image",
+      "width" : 200
+    } ],
+    "type" : "Canvas",
+    "width" : 3198
+  }, {
+    "height" : 600,
+    "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prvfc3f4c00-45f5-4cdb-bc03-37c1173a86e6",
+    "items" : [ {
+      "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prvfc3f4c00-45f5-4cdb-bc03-37c1173a86e6/annotation-page",
+      "items" : [ {
+        "body" : {
+          "format" : "image/jpeg",
+          "height" : 600,
+          "id" : "undefined/full/full/0/default.jpg",
+          "service" : [ {
+            "type" : "ImageService2"
+          } ],
+          "type" : "Image",
+          "width" : 600
+        },
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/annotation/prvfc3f4c00-45f5-4cdb-bc03-37c1173a86e6-image",
+        "motivation" : "painting",
+        "target" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prvfc3f4c00-45f5-4cdb-bc03-37c1173a86e6",
+        "type" : "Annotation"
+      } ],
+      "type" : "AnnotationPage"
+    } ],
+    "label" : {
+      "none" : [ "mob7 168-2" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "fr" : [ "Titre" ]
+      },
+      "value" : {
+        "fr" : [ "mob7 168-2" ]
+      }
+    } ],
+    "partOf" : [ {
+      "id" : "https://imago-dl.sebina.it/dl/iiif/v2/IMA00074201-CL/manifest",
+      "label" : {
+        "none" : [ "*Giuoco del Giro del Mondo ; Giuoco dell'oca" ]
+      },
+      "type" : "Manifest"
+    } ],
+    "requiredStatement" : {
+      "label" : {
+        "fr" : [ "Crédits du fichier numérique" ]
+      },
+      "value" : {
+        "fr" : [ "" ]
+      }
+    },
+    "summary" : {
+      "fr" : [ "" ]
+    },
+    "thumbnail" : [ {
+      "format" : "image/jpeg",
+      "height" : 300,
+      "id" : "undefined/full/412,412/0/default.jpg",
+      "type" : "Image",
+      "width" : 200
+    } ],
+    "type" : "Canvas",
+    "width" : 600
+  } ],
+  "label" : {
+    "fr" : [ "test" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "none" : [ "Date de création" ]
+    },
+    "value" : {
+      "none" : [ "2025-05-21T14:32:03.852Z" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Auteur" ]
+    },
+    "value" : {
+      "none" : [ "MFB" ]
+    }
+  } ],
+  "structures" : [ {
+    "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/range/r0",
+    "items" : [ {
+      "annotations" : [ {
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/rprv264cd4ae-4614-491f-8609-cf1b4972584b_annotations",
+        "type" : "AnnotationPage"
+      } ],
+      "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/rprv264cd4ae-4614-491f-8609-cf1b4972584b",
+      "items" : [ {
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prv1bc27042-1e1b-42f6-9afb-5c731ff1079a",
+        "type" : "Canvas",
+        "label" : {
+          "fr" : [ "" ]
+        }
+      }, {
+        "id" : "https://pervisum.inha.fr/api/prv1abcd8ed-c958-43fa-aeaf-5011b950eb72/manifest-edition/canvas/prvfc3f4c00-45f5-4cdb-bc03-37c1173a86e6",
+        "type" : "Canvas",
+        "label" : {
+          "fr" : [ "" ]
+        }
+      } ],
+      "label" : {
+        "none" : [ "picture" ]
+      },
+      "type" : "Range"
+    } ],
+    "type" : "Range"
+  } ],
+  "type" : "Manifest"
+}
