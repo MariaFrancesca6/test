@@ -1,0 +1,15 @@
+{
+  "id" : "https://MariaFrancesca6.github.io/test/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in MariaFrancesca6/test project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://MariaFrancesca6.github.io/test/manifests/manifeste_edition.json",
+    "label" : {
+      "fr" : [ "test" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
